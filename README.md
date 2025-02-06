@@ -7,5 +7,5 @@ Feel free to rest here before continuing to slay the Dragon's Code :dragon_face:
 </h4>
 
 <p align="center">
-  <img width="60%" src=""/>
+  <img width="60%" src="images/Dark-Souls-Traveller.gif"/>
 </p>
