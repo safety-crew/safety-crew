@@ -3,7 +3,7 @@
 </h3>
 
 <h4 align="center">
-Feel free to rest here before continuing to slay the Dragon's Code :dragon_face:
+Feel free to rest here before continuing to slay the Dragon's Code 🗡
 </h4>
 
 <p align="center">
